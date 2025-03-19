@@ -1,8 +1,8 @@
-# ShopShere-A C# based ECommerce Store
+# ShopSphere-A C# based ECommerce Store
 **Slogan:** *Shop like nobody's watching*  
 
 ## Project Overview  
-ShopShere is an e-commerce platform designed to provide a seamless shopping experience for users while incorporating robust database management features. The system allows users to browse products, manage their shopping carts, place orders, and track them efficiently. It also includes administrative functionalities for inventory and order management.  
+ShopSphere is an e-commerce platform designed to provide a seamless shopping experience for users while incorporating robust database management features. The system allows users to browse products, manage their shopping carts, place orders, and track them efficiently. It also includes administrative functionalities for inventory and order management.  
 
 ## Features and Functionalities  
 
