@@ -1,0 +1,319 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\ECommProject\\ECommProject\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{24DAF629-492B-47C1-A1A2-43BBB242DB26}|FastFoodPOS\\EComm.csproj|c:\\ecommproject\\ecommproject\\fastfoodpos\\forms\\adminforms\\formdashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{24DAF629-492B-47C1-A1A2-43BBB242DB26}|FastFoodPOS\\EComm.csproj|solutionrelative:fastfoodpos\\forms\\adminforms\\formdashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24DAF629-492B-47C1-A1A2-43BBB242DB26}|FastFoodPOS\\EComm.csproj|C:\\ECommProject\\ECommProject\\fastfoodpos\\forms\\formregistration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{24DAF629-492B-47C1-A1A2-43BBB242DB26}|FastFoodPOS\\EComm.csproj|solutionrelative:fastfoodpos\\forms\\formregistration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24DAF629-492B-47C1-A1A2-43BBB242DB26}|FastFoodPOS\\EComm.csproj|C:\\ECommProject\\ECommProject\\fastfoodpos\\forms\\adminforms\\formupdateproduct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{24DAF629-492B-47C1-A1A2-43BBB242DB26}|FastFoodPOS\\EComm.csproj|solutionrelative:fastfoodpos\\forms\\adminforms\\formupdateproduct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24DAF629-492B-47C1-A1A2-43BBB242DB26}|FastFoodPOS\\EComm.csproj|C:\\ECommProject\\ECommProject\\fastfoodpos\\forms\\cashierforms\\processorder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{24DAF629-492B-47C1-A1A2-43BBB242DB26}|FastFoodPOS\\EComm.csproj|solutionrelative:fastfoodpos\\forms\\cashierforms\\processorder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24DAF629-492B-47C1-A1A2-43BBB242DB26}|FastFoodPOS\\EComm.csproj|C:\\ECommProject\\ECommProject\\fastfoodpos\\forms\\cashierforms\\processorder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{24DAF629-492B-47C1-A1A2-43BBB242DB26}|FastFoodPOS\\EComm.csproj|solutionrelative:fastfoodpos\\forms\\cashierforms\\processorder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24DAF629-492B-47C1-A1A2-43BBB242DB26}|FastFoodPOS\\EComm.csproj|C:\\ECommProject\\ECommProject\\fastfoodpos\\forms\\cashierforms\\formupdatepassword.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{24DAF629-492B-47C1-A1A2-43BBB242DB26}|FastFoodPOS\\EComm.csproj|solutionrelative:fastfoodpos\\forms\\cashierforms\\formupdatepassword.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24DAF629-492B-47C1-A1A2-43BBB242DB26}|FastFoodPOS\\EComm.csproj|C:\\ECommProject\\ECommProject\\fastfoodpos\\forms\\cashierforms\\formupdatepassword.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{24DAF629-492B-47C1-A1A2-43BBB242DB26}|FastFoodPOS\\EComm.csproj|solutionrelative:fastfoodpos\\forms\\cashierforms\\formupdatepassword.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24DAF629-492B-47C1-A1A2-43BBB242DB26}|FastFoodPOS\\EComm.csproj|C:\\ECommProject\\ECommProject\\fastfoodpos\\forms\\formadminpanel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{24DAF629-492B-47C1-A1A2-43BBB242DB26}|FastFoodPOS\\EComm.csproj|solutionrelative:fastfoodpos\\forms\\formadminpanel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24DAF629-492B-47C1-A1A2-43BBB242DB26}|FastFoodPOS\\EComm.csproj|C:\\ECommProject\\ECommProject\\fastfoodpos\\forms\\formadminlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{24DAF629-492B-47C1-A1A2-43BBB242DB26}|FastFoodPOS\\EComm.csproj|solutionrelative:fastfoodpos\\forms\\formadminlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24DAF629-492B-47C1-A1A2-43BBB242DB26}|FastFoodPOS\\EComm.csproj|C:\\ECommProject\\ECommProject\\fastfoodpos\\forms\\cashierforms\\formpos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{24DAF629-492B-47C1-A1A2-43BBB242DB26}|FastFoodPOS\\EComm.csproj|solutionrelative:fastfoodpos\\forms\\cashierforms\\formpos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24DAF629-492B-47C1-A1A2-43BBB242DB26}|FastFoodPOS\\EComm.csproj|C:\\ECommProject\\ECommProject\\fastfoodpos\\forms\\cashierforms\\formpos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{24DAF629-492B-47C1-A1A2-43BBB242DB26}|FastFoodPOS\\EComm.csproj|solutionrelative:fastfoodpos\\forms\\cashierforms\\formpos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24DAF629-492B-47C1-A1A2-43BBB242DB26}|FastFoodPOS\\EComm.csproj|C:\\ECommProject\\ECommProject\\fastfoodpos\\models\\transaction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{24DAF629-492B-47C1-A1A2-43BBB242DB26}|FastFoodPOS\\EComm.csproj|solutionrelative:fastfoodpos\\models\\transaction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24DAF629-492B-47C1-A1A2-43BBB242DB26}|FastFoodPOS\\EComm.csproj|C:\\ECommProject\\ECommProject\\fastfoodpos\\forms\\adminforms\\formmanageproducts.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{24DAF629-492B-47C1-A1A2-43BBB242DB26}|FastFoodPOS\\EComm.csproj|solutionrelative:fastfoodpos\\forms\\adminforms\\formmanageproducts.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24DAF629-492B-47C1-A1A2-43BBB242DB26}|FastFoodPOS\\EComm.csproj|C:\\ECommProject\\ECommProject\\fastfoodpos\\components\\receipttemplate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{24DAF629-492B-47C1-A1A2-43BBB242DB26}|FastFoodPOS\\EComm.csproj|solutionrelative:fastfoodpos\\components\\receipttemplate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24DAF629-492B-47C1-A1A2-43BBB242DB26}|FastFoodPOS\\EComm.csproj|C:\\ECommProject\\ECommProject\\fastfoodpos\\forms\\formadminpanel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{24DAF629-492B-47C1-A1A2-43BBB242DB26}|FastFoodPOS\\EComm.csproj|solutionrelative:fastfoodpos\\forms\\formadminpanel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24DAF629-492B-47C1-A1A2-43BBB242DB26}|FastFoodPOS\\EComm.csproj|C:\\ECommProject\\ECommProject\\fastfoodpos\\models\\sale.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{24DAF629-492B-47C1-A1A2-43BBB242DB26}|FastFoodPOS\\EComm.csproj|solutionrelative:fastfoodpos\\models\\sale.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24DAF629-492B-47C1-A1A2-43BBB242DB26}|FastFoodPOS\\EComm.csproj|C:\\ECommProject\\ECommProject\\fastfoodpos\\forms\\adminforms\\formdashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{24DAF629-492B-47C1-A1A2-43BBB242DB26}|FastFoodPOS\\EComm.csproj|solutionrelative:fastfoodpos\\forms\\adminforms\\formdashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24DAF629-492B-47C1-A1A2-43BBB242DB26}|FastFoodPOS\\EComm.csproj|C:\\ECommProject\\ECommProject\\fastfoodpos\\components\\productcardcomponent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{24DAF629-492B-47C1-A1A2-43BBB242DB26}|FastFoodPOS\\EComm.csproj|solutionrelative:fastfoodpos\\components\\productcardcomponent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24DAF629-492B-47C1-A1A2-43BBB242DB26}|FastFoodPOS\\EComm.csproj|C:\\ECommProject\\ECommProject\\fastfoodpos\\databaseutil\\databaseprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{24DAF629-492B-47C1-A1A2-43BBB242DB26}|FastFoodPOS\\EComm.csproj|solutionrelative:fastfoodpos\\databaseutil\\databaseprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 16,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FormRegistration.cs [Design]",
+              "DocumentMoniker": "C:\\ECommProject\\ECommProject\\FastFoodPOS\\Forms\\FormRegistration.cs",
+              "RelativeDocumentMoniker": "FastFoodPOS\\Forms\\FormRegistration.cs",
+              "ToolTip": "C:\\ECommProject\\ECommProject\\FastFoodPOS\\Forms\\FormRegistration.cs [Design]",
+              "RelativeToolTip": "FastFoodPOS\\Forms\\FormRegistration.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-11T16:16:40.442Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "FormUpdateProduct.cs",
+              "DocumentMoniker": "C:\\ECommProject\\ECommProject\\FastFoodPOS\\Forms\\AdminForms\\FormUpdateProduct.cs",
+              "RelativeDocumentMoniker": "FastFoodPOS\\Forms\\AdminForms\\FormUpdateProduct.cs",
+              "ToolTip": "C:\\ECommProject\\ECommProject\\FastFoodPOS\\Forms\\AdminForms\\FormUpdateProduct.cs",
+              "RelativeToolTip": "FastFoodPOS\\Forms\\AdminForms\\FormUpdateProduct.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-11T07:19:11.811Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "FormUpdatePassword.cs",
+              "DocumentMoniker": "C:\\ECommProject\\ECommProject\\FastFoodPOS\\Forms\\CashierForms\\FormUpdatePassword.cs",
+              "RelativeDocumentMoniker": "FastFoodPOS\\Forms\\CashierForms\\FormUpdatePassword.cs",
+              "ToolTip": "C:\\ECommProject\\ECommProject\\FastFoodPOS\\Forms\\CashierForms\\FormUpdatePassword.cs",
+              "RelativeToolTip": "FastFoodPOS\\Forms\\CashierForms\\FormUpdatePassword.cs",
+              "ViewState": "AgIAACEAAAAAAAAAAAAYwBgAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-11T06:46:58.498Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "FormUpdatePassword.cs [Design]",
+              "DocumentMoniker": "C:\\ECommProject\\ECommProject\\FastFoodPOS\\Forms\\CashierForms\\FormUpdatePassword.cs",
+              "RelativeDocumentMoniker": "FastFoodPOS\\Forms\\CashierForms\\FormUpdatePassword.cs",
+              "ToolTip": "C:\\ECommProject\\ECommProject\\FastFoodPOS\\Forms\\CashierForms\\FormUpdatePassword.cs [Design]",
+              "RelativeToolTip": "FastFoodPOS\\Forms\\CashierForms\\FormUpdatePassword.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-11T06:46:53.272Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "FormAdminLogin.cs [Design]",
+              "DocumentMoniker": "C:\\ECommProject\\ECommProject\\FastFoodPOS\\Forms\\FormAdminLogin.cs",
+              "RelativeDocumentMoniker": "FastFoodPOS\\Forms\\FormAdminLogin.cs",
+              "ToolTip": "C:\\ECommProject\\ECommProject\\FastFoodPOS\\Forms\\FormAdminLogin.cs [Design]",
+              "RelativeToolTip": "FastFoodPOS\\Forms\\FormAdminLogin.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-11T06:44:45.665Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "ReceiptTemplate.cs",
+              "DocumentMoniker": "C:\\ECommProject\\ECommProject\\FastFoodPOS\\Components\\ReceiptTemplate.cs",
+              "RelativeDocumentMoniker": "FastFoodPOS\\Components\\ReceiptTemplate.cs",
+              "ToolTip": "C:\\ECommProject\\ECommProject\\FastFoodPOS\\Components\\ReceiptTemplate.cs",
+              "RelativeToolTip": "FastFoodPOS\\Components\\ReceiptTemplate.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-11T01:37:09.496Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ProcessOrder.cs",
+              "DocumentMoniker": "C:\\ECommProject\\ECommProject\\FastFoodPOS\\Forms\\CashierForms\\ProcessOrder.cs",
+              "RelativeDocumentMoniker": "FastFoodPOS\\Forms\\CashierForms\\ProcessOrder.cs",
+              "ToolTip": "C:\\ECommProject\\ECommProject\\FastFoodPOS\\Forms\\CashierForms\\ProcessOrder.cs",
+              "RelativeToolTip": "FastFoodPOS\\Forms\\CashierForms\\ProcessOrder.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAWwCsAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-11T01:36:50.982Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "FormManageProducts.cs",
+              "DocumentMoniker": "C:\\ECommProject\\ECommProject\\FastFoodPOS\\Forms\\AdminForms\\FormManageProducts.cs",
+              "RelativeDocumentMoniker": "FastFoodPOS\\Forms\\AdminForms\\FormManageProducts.cs",
+              "ToolTip": "C:\\ECommProject\\ECommProject\\FastFoodPOS\\Forms\\AdminForms\\FormManageProducts.cs",
+              "RelativeToolTip": "FastFoodPOS\\Forms\\AdminForms\\FormManageProducts.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAABkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-11T01:30:28.538Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "ProductCardComponent.cs",
+              "DocumentMoniker": "C:\\ECommProject\\ECommProject\\FastFoodPOS\\Components\\ProductCardComponent.cs",
+              "RelativeDocumentMoniker": "FastFoodPOS\\Components\\ProductCardComponent.cs",
+              "ToolTip": "C:\\ECommProject\\ECommProject\\FastFoodPOS\\Components\\ProductCardComponent.cs",
+              "RelativeToolTip": "FastFoodPOS\\Components\\ProductCardComponent.cs",
+              "ViewState": "AgIAABwAAAAAAAAAAADgvy4AAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-11T01:24:50.569Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "FormPOS.cs",
+              "DocumentMoniker": "C:\\ECommProject\\ECommProject\\FastFoodPOS\\Forms\\CashierForms\\FormPOS.cs",
+              "RelativeDocumentMoniker": "FastFoodPOS\\Forms\\CashierForms\\FormPOS.cs",
+              "ToolTip": "C:\\ECommProject\\ECommProject\\FastFoodPOS\\Forms\\CashierForms\\FormPOS.cs",
+              "RelativeToolTip": "FastFoodPOS\\Forms\\CashierForms\\FormPOS.cs",
+              "ViewState": "AgIAAGkAAAAAAAAAAAAewD0AAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-11T01:14:44.191Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ProcessOrder.cs [Design]",
+              "DocumentMoniker": "C:\\ECommProject\\ECommProject\\FastFoodPOS\\Forms\\CashierForms\\ProcessOrder.cs",
+              "RelativeDocumentMoniker": "FastFoodPOS\\Forms\\CashierForms\\ProcessOrder.cs",
+              "ToolTip": "C:\\ECommProject\\ECommProject\\FastFoodPOS\\Forms\\CashierForms\\ProcessOrder.cs [Design]",
+              "RelativeToolTip": "FastFoodPOS\\Forms\\CashierForms\\ProcessOrder.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-11T01:14:22.984Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "FormPOS.cs [Design]",
+              "DocumentMoniker": "C:\\ECommProject\\ECommProject\\FastFoodPOS\\Forms\\CashierForms\\FormPOS.cs",
+              "RelativeDocumentMoniker": "FastFoodPOS\\Forms\\CashierForms\\FormPOS.cs",
+              "ToolTip": "C:\\ECommProject\\ECommProject\\FastFoodPOS\\Forms\\CashierForms\\FormPOS.cs [Design]",
+              "RelativeToolTip": "FastFoodPOS\\Forms\\CashierForms\\FormPOS.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-11T01:14:13.389Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "FormAdminPanel.cs",
+              "DocumentMoniker": "C:\\ECommProject\\ECommProject\\FastFoodPOS\\Forms\\FormAdminPanel.cs",
+              "RelativeDocumentMoniker": "FastFoodPOS\\Forms\\FormAdminPanel.cs",
+              "ToolTip": "C:\\ECommProject\\ECommProject\\FastFoodPOS\\Forms\\FormAdminPanel.cs",
+              "RelativeToolTip": "FastFoodPOS\\Forms\\FormAdminPanel.cs",
+              "ViewState": "AgIAAEYAAAAAAAAAAAAQwFMAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-11T01:00:44.323Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "DatabaseProvider.cs",
+              "DocumentMoniker": "C:\\ECommProject\\ECommProject\\FastFoodPOS\\DatabaseUtil\\DatabaseProvider.cs",
+              "RelativeDocumentMoniker": "FastFoodPOS\\DatabaseUtil\\DatabaseProvider.cs",
+              "ToolTip": "C:\\ECommProject\\ECommProject\\FastFoodPOS\\DatabaseUtil\\DatabaseProvider.cs",
+              "RelativeToolTip": "FastFoodPOS\\DatabaseUtil\\DatabaseProvider.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAgwBQAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-11T00:44:15.951Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Sale.cs",
+              "DocumentMoniker": "C:\\ECommProject\\ECommProject\\FastFoodPOS\\Models\\Sale.cs",
+              "RelativeDocumentMoniker": "FastFoodPOS\\Models\\Sale.cs",
+              "ToolTip": "C:\\ECommProject\\ECommProject\\FastFoodPOS\\Models\\Sale.cs",
+              "RelativeToolTip": "FastFoodPOS\\Models\\Sale.cs",
+              "ViewState": "AgIAAGwAAAAAAAAAAAAAwHYAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-10T22:21:07.71Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "FormDashboard.cs",
+              "DocumentMoniker": "C:\\ECommProject\\ECommProject\\FastFoodPOS\\Forms\\AdminForms\\FormDashboard.cs",
+              "RelativeDocumentMoniker": "FastFoodPOS\\Forms\\AdminForms\\FormDashboard.cs",
+              "ToolTip": "C:\\ECommProject\\ECommProject\\FastFoodPOS\\Forms\\AdminForms\\FormDashboard.cs",
+              "RelativeToolTip": "FastFoodPOS\\Forms\\AdminForms\\FormDashboard.cs",
+              "ViewState": "AgIAAE8AAAAAAAAAAAAuwFwAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-10T22:08:10.599Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FormDashboard.cs [Design]",
+              "DocumentMoniker": "C:\\ECommProject\\ECommProject\\FastFoodPOS\\Forms\\AdminForms\\FormDashboard.cs",
+              "RelativeDocumentMoniker": "FastFoodPOS\\Forms\\AdminForms\\FormDashboard.cs",
+              "ToolTip": "C:\\ECommProject\\ECommProject\\FastFoodPOS\\Forms\\AdminForms\\FormDashboard.cs [Design]",
+              "RelativeToolTip": "FastFoodPOS\\Forms\\AdminForms\\FormDashboard.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-10T22:08:08.314Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "FormAdminPanel.cs [Design]",
+              "DocumentMoniker": "C:\\ECommProject\\ECommProject\\FastFoodPOS\\Forms\\FormAdminPanel.cs",
+              "RelativeDocumentMoniker": "FastFoodPOS\\Forms\\FormAdminPanel.cs",
+              "ToolTip": "C:\\ECommProject\\ECommProject\\FastFoodPOS\\Forms\\FormAdminPanel.cs [Design]",
+              "RelativeToolTip": "FastFoodPOS\\Forms\\FormAdminPanel.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-10T22:07:36.363Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Transaction.cs",
+              "DocumentMoniker": "C:\\ECommProject\\ECommProject\\FastFoodPOS\\Models\\Transaction.cs",
+              "RelativeDocumentMoniker": "FastFoodPOS\\Models\\Transaction.cs",
+              "ToolTip": "C:\\ECommProject\\ECommProject\\FastFoodPOS\\Models\\Transaction.cs",
+              "RelativeToolTip": "FastFoodPOS\\Models\\Transaction.cs",
+              "ViewState": "AgIAADIAAAAAAAAAAAAAAD0AAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-10T22:00:52.733Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
